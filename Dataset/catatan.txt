@@ -1,0 +1,25 @@
+Reference:
+https://www.kaggle.com/starbucks/starbucks-menu/data#_=_
+Size - Cluster
+1 = 33 L.(Hitam)
+2 = 9 L.(Merah)
+3= 7 L.(Hijau)
+Algoritma K-means
+Pertanyaan : 
+1. FPC itu apa ?
+
+2. ggplot2 itu apa ?
+ 	Untuk menampilkan PLot
+3. rJava itu apa ?
+ 
+Step
+1. set lokasi_Kerja
+2. instalasi Paket yang Diperlukan
+3. set-library
+4. import-data
+5. Duplikat data u/ Menghilangkan string di tabel
+6. Normalisasi Data
+7. Membuat Cluster dengan metode k-means
+8. Buat diagram PLot
+9. Buat point pada diagram plot agar mudah dibaca
+10. Tampilkan tabel untuk melihat atribut menu ada di cluster yg mana 
